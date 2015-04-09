@@ -18,6 +18,7 @@ public class App_Ejemplo {
         // TODO code application logic here
         
         System.out.println("Hola, estoy creando un repositorio de git en githup");
+        System.out.println("Hola, editando desde el repositorio");
     }
     
 }
